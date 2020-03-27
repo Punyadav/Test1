@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"liquorStaging.products"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"product_name_text","ns":"liquorStaging.products","weights":{"product_name":1},"default_language":"english","language_override":"language","textIndexVersion":3}],"uuid":"ea08b9a3c3f54282b1842d52d97f8964"}
